@@ -64,7 +64,7 @@ add_subdirectory(EditLine)
 add_subdirectory(Facebook)
 add_subdirectory(Flux)
 add_subdirectory(Fnmatch)
-add_subdirectory(Font)
+#add_subdirectory(Font)
 add_subdirectory(GLFW) # XXX: Can't meet dependencies
 add_subdirectory(GoogleSearch)
 add_subdirectory(HttpClient)
